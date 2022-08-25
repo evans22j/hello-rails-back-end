@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 - Enjoy interacting with the app.
 
 
-## Author
+## Authors
       
 👤 **Evans Sitibekiso**
 
