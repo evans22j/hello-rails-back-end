@@ -2,7 +2,7 @@
 # Hello Rails Back-end App
 
 > A Rails Back-end application that interacts with a React front-end API to display greetings from around the world
-> You can find the React Front-end application at [This Repo](https://github.com/sainingo/hello-react-front-end)
+> You can find the React Front-end application at [This Repo](https://github.com/evans22j/hello-react-front-end.git)
 
 
 ## Built With
@@ -44,5 +44,11 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [@Evans Sitibekiso](https://www.linkedin.com/in/evans-sitibekiso/)
 
 ## Acknowledgments
-Hat tip to anyone whose code inspired our project
-  
+
+- Thanks to microverse for this project
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md) licensed.
